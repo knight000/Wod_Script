@@ -26,8 +26,8 @@
 // @require      https://raw.githubusercontent.com/eligrey/FileSaver.js/1.2.0/FileSaver.js
 // @require      https://raw.githubusercontent.com/Stuk/jszip/master/dist/jszip.js
 // @require      https://raw.githubusercontent.com/malsup/malsup.github.com/master/jquery.form.js
-// @downloadUrl  https://raw.githubusercontent.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js
-// @updateURL    https://raw.githubusercontent.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js
+// @downloadUrl  https://github.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js
+// @updateURL    https://github.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js
 // ==/UserScript==
 (function () {
     // COMMON FUNCTIONS ///////////////////////////////////////////////////////////
