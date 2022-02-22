@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Wod显示物品详情
-// @namespace    http://tampermonkey.net/
-// @version      1.1
+// @namespace    https://github.com/knight000/Wod_Script
+// @version      1.2
 // @description  try to take over the world!
 // @author       knight000
 // @match        http*://*.world-of-dungeons.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=world-of-dungeons.org
 // @require      https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js
 // @grant        unsafeWindow
+// @downloadUrl  https://raw.githubusercontent.com/knight000/Wod_Script/raw/main/WOD_EasyItemDetails.user.js
+// @updateURL    https://raw.githubusercontent.com/knight000/Wod_Script/raw/main/WOD_EasyItemDetails.user.js
 // ==/UserScript==
 
 var DetailsDivNotHold;
