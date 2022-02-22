@@ -15,7 +15,7 @@
 // ==UserScript==
 // @name         WOD Extra Statistics改
 // @namespace    fenghou
-// @version      2.25.1.2.8.2
+// @version      2.25.1.2.8.3
 // @description  Generate additional statistical data in the dungeon and duel report pages
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=world-of-dungeons.org
 // @include      http*://*.world-of-dungeons.*/wod/spiel/*dungeon/report.php*
@@ -26,7 +26,7 @@
 // @require      https://raw.githubusercontent.com/eligrey/FileSaver.js/1.2.0/FileSaver.js
 // @require      https://raw.githubusercontent.com/Stuk/jszip/master/dist/jszip.js
 // @require      https://raw.githubusercontent.com/malsup/malsup.github.com/master/jquery.form.js
-// @downloadUrl  https://github.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js
+// @downloadURL  https://github.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js
 // @updateURL    https://github.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js
 // ==/UserScript==
 (function () {

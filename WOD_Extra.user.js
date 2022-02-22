@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Wod增强
 // @namespace    https://github.com/knight000/Wod_Script
-// @version      2.6.2
+// @version      2.6.3
 // @description  try to take over the world!
 // @author       knight000
 // @match        http*://*.world-of-dungeons.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=world-of-dungeons.org
 // @require      https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js
 // @grant        none
-// @downloadUrl  https://github.com/knight000/Wod_Script/raw/main/WOD_Extra.user.js
+// @downloadURL  https://github.com/knight000/Wod_Script/raw/main/WOD_Extra.user.js
 // @updateURL    https://github.com/knight000/Wod_Script/raw/main/WOD_Extra.user.js
 // ==/UserScript==
 
