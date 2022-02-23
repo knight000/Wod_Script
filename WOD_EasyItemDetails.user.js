@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wod显示物品详情
 // @namespace    https://github.com/knight000/Wod_Script
-// @version      1.2.1
+// @version      1.3
 // @description  try to take over the world!
 // @author       knight000
 // @match        http*://*.world-of-dungeons.org/*
@@ -67,8 +67,8 @@ var OldItemLink;
                 var position = getMousePosition(event);
                 ItemDiv.css("left", position.x - 10);
                 ItemDiv.css("top", position.y - 100);
-                ItemDiv.show();
             };
+            ItemDiv.show();
         };
     };
 
