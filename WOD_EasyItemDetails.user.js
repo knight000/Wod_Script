@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Wod显示物品详情
 // @namespace    https://github.com/knight000/Wod_Script
-// @version      1.3
+// @version      1.4
 // @description  try to take over the world!
 // @author       knight000
-// @match        http*://*.world-of-dungeons.org/*
+// @match        http*://*.world-of-dungeons.org/wod/spiel/hero/items.php*
+// @match        http*://*.world-of-dungeons.org/wod/spiel/trade/trade.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=world-of-dungeons.org
 // @require      https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js
 // @grant        unsafeWindow
