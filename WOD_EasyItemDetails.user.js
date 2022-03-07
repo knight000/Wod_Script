@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wod显示物品详情
 // @namespace    https://github.com/knight000/Wod_Script
-// @version      1.4
+// @version      1.5
 // @description  try to take over the world!
 // @author       knight000
 // @match        http*://*.world-of-dungeons.org/wod/spiel/hero/items.php*
@@ -45,6 +45,10 @@ var OldItemLink;
         ND.hide();
         $("body").append(ND);
         DetailsDivNotHold = true;
+        // 默认关闭ajax请求的异步处理
+        $.ajaxSetup({
+            async: false
+        });
     };
 
     /**
