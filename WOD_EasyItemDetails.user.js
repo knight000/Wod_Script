@@ -9,8 +9,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=world-of-dungeons.org
 // @require      https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js
 // @grant        unsafeWindow
-// @downloadURL  https://github.com/knight000/Wod_Script/raw/main/WOD_EasyItemDetails.user.js
-// @updateURL    https://github.com/knight000/Wod_Script/raw/main/WOD_EasyItemDetails.user.js
+// @downloadURL  https://raw.githubusercontent.com/knight000/Wod_Script/main/WOD_EasyItemDetails.user.js
+// @updateURL    https://raw.githubusercontent.com/knight000/Wod_Script/main/WOD_EasyItemDetails.user.js
 // ==/UserScript==
 
 var DetailsDivNotHold;
