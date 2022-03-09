@@ -6,7 +6,7 @@
 
 ## WOD_extra_statistics
 
-[点击安装](https://github.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js)
+[点击安装](https://raw.githubusercontent.com/knight000/Wod_Script/main/WOD_extra_statistics.user.js)
 
 WOD战报额外统计信息插件
 
@@ -22,12 +22,12 @@ WOD战报额外统计信息插件
 
 ## WOD_EasyItemDetails
 
-[点击安装](https://github.com/knight000/Wod_Script/raw/main/WOD_EasyItemDetails.user.js)
+[点击安装](https://raw.githubusercontent.com/knight000/Wod_Script/main/WOD_EasyItemDetails.user.js)
 
 鼠标挪到物品上面就会显示详情框，模仿群星灰机wiki那个框但是我做不好，能用就行，懒得改了，摸了。
 
 ## WOD_Extra
 
-[点击安装](https://github.com/knight000/Wod_Script/raw/main/WOD_Extra.user.js)
+[点击安装](https://raw.githubusercontent.com/knight000/Wod_Script/main/WOD_Extra.user.js)
 
 杂七杂八的功能合集，注释里写了这里就不写了
