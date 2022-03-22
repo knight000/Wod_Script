@@ -23,12 +23,12 @@
 // @include      http*://*.wannaexpresso.*/wod/spiel/*dungeon/report.php*
 // @include      http*://*.wannaexpresso.*/wod/spiel/tournament/*duell.php*
 // @require      https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js
-// @require      https://raw.githubusercontent.com/eligrey/Blob.js/master/Blob.js
-// @require      https://raw.githubusercontent.com/eligrey/FileSaver.js/1.2.0/FileSaver.js
-// @require      https://raw.githubusercontent.com/Stuk/jszip/master/dist/jszip.js
-// @require      https://raw.githubusercontent.com/malsup/malsup.github.com/master/jquery.form.js
-// @downloadURL  https://raw.githubusercontent.com/knight000/Wod_Script/main/WOD_extra_statistics.user.js
-// @updateURL    https://raw.githubusercontent.com/knight000/Wod_Script/main/WOD_extra_statistics.user.js
+// @require      https://cdn.jsdelivr.net/gh/eligrey/Blob.js@master/Blob.js
+// @require      https://cdn.jsdelivr.net/gh/eligrey/FileSaver.js@1.2.0/FileSaver.js
+// @require      https://cdn.jsdelivr.net/gh/Stuk/jszip@master/dist/jszip.js
+// @require      https://cdn.jsdelivr.net/gh/malsup/malsup.github.com@master/jquery.form.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/knight000/Wod_Script/WOD_extra_statistics.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/knight000/Wod_Script/WOD_extra_statistics.user.js
 // ==/UserScript==
 (function () {
     // COMMON FUNCTIONS ///////////////////////////////////////////////////////////
