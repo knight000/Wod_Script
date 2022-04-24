@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wod显示物品详情
 // @namespace    https://github.com/knight000/Wod_Script
-// @version      1.5
+// @version      1.5.1
 // @description  try to take over the world!
 // @author       knight000
 // @match        http*://*.world-of-dungeons.org/wod/spiel/hero/items.php*
@@ -45,7 +45,7 @@ var OldItemLink;
         ND.hide();
         $("body").append(ND);
         DetailsDivNotHold = true;
-        // 默认关闭ajax请求的异步处理
+        // 默认关闭ajax请求的异步处理，将flase改成true就打开，关闭异步可以防止多个请求叠在一起，但是在网络卡的时候会导致页面崩溃
         $.ajaxSetup({
             async: false
         });
@@ -70,7 +70,7 @@ var OldItemLink;
                 });
                 // 获取鼠标相对于文档的坐标并将div设置到那
                 var position = getMousePosition(event);
-                ItemDiv.css("left", position.x - 10);
+                ItemDiv.css("left", position.x + 1);
                 ItemDiv.css("top", position.y - 100);
             };
             ItemDiv.show();
