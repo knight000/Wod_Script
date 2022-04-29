@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=world-of-dungeons.org
 // @require      https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js
 // @grant        none
-// @downloadURL  https://cdn.jsdelivr.net/gh/knight000/Wod_Script/Wod_Script/main/WOD_Extra.user.js
-// @updateURL    https://cdn.jsdelivr.net/gh/knight000/Wod_Script/Wod_Script/main/WOD_Extra.user.js
+// @downloadURL  https://github.com/knight000/Wod_Script/raw/main/WOD_Extra.user.js
+// @updateURL    https://github.com/knight000/Wod_Script/raw/main/WOD_Extra.user.js
 // ==/UserScript==
 
 (function () {

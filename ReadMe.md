@@ -4,11 +4,15 @@
 
 根据默认皮肤来改的，可能不通用
 
-因为Github Raw在国内无法访问所以替换成了jsdelivr.net
+~~因为Github Raw在国内无法访问所以替换成了jsdelivr.net~~
+
+jsdelivr.net国内无法访问了，改回github raw了
 
 ## WOD_extra_statistics
 
-[点击安装](https://cdn.jsdelivr.net/gh/knight000/Wod_Script/WOD_extra_statistics.user.js)
+Github Raw:[点击安装](https://github.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js)
+
+Gitee Raw:[点击安装](https://gitee.com/kni_gitee/static/raw/master/user_script/WOD_extra_statistics.gitee.user.js)，依赖项也更改为gitee源了，国内可正常使用
 
 WOD战报额外统计信息插件
 
@@ -24,12 +28,12 @@ WOD战报额外统计信息插件
 
 ## WOD_EasyItemDetails
 
-[点击安装](https://cdn.jsdelivr.net/gh/knight000/Wod_Script/WOD_EasyItemDetails.user.js)
+[点击安装](https://github.com/knight000/Wod_Script/raw/main/WOD_EasyItemDetails.user.js)
 
 鼠标挪到物品上面就会显示详情框，模仿群星灰机wiki那个框但是我做不好，能用就行，懒得改了，摸了。
 
 ## WOD_Extra
 
-[点击安装](https://cdn.jsdelivr.net/gh/knight000/Wod_Script/WOD_Extra.user.js)
+[点击安装](https://github.com/knight000/Wod_Script/raw/main/WOD_Extra.user.js)
 
 杂七杂八的功能合集，注释里写了这里就不写了
