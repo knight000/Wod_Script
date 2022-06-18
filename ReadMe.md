@@ -12,8 +12,6 @@ jsdelivr.net国内无法访问了，改回github raw了
 
 Github Raw:[点击安装](https://github.com/knight000/Wod_Script/raw/main/WOD_extra_statistics.user.js)
 
-Gitee Raw:[点击安装](https://gitee.com/kni_gitee/static/raw/master/user_script/WOD_extra_statistics.gitee.user.js)，依赖项也更改为gitee源了，国内可正常使用
-
 WOD战报额外统计信息插件
 
 脚本由[Extra Statistics](https://github.com/DotIN13/extra_statistics_fix_filesaver)更改而来
