@@ -15,17 +15,17 @@
 // ==UserScript==
 // @name         WOD Extra Statistics改
 // @namespace    fenghou
-// @version      2.25.1.2.9
+// @version      2.25.1.2.10
 // @description  Generate additional statistical data in the dungeon and duel report pages
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=world-of-dungeons.org
 // @include      http*://*.world-of-dungeons.*/wod/spiel/*dungeon/report.php*
 // @include      http*://*.world-of-dungeons.*/wod/spiel/tournament/*duell.php*
 // @include      http*://*.wannaexpresso.*/wod/spiel/*dungeon/report.php*
 // @include      http*://*.wannaexpresso.*/wod/spiel/tournament/*duell.php*
-// @require      https://gcore.staticfile.org/jquery/1.10.2/jquery.min.js
+// @require      https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js
 // @require      https://gcore.jsdelivr.net/gh/eligrey/Blob.js@master/Blob.js
 // @require      https://gcore.jsdelivr.net/gh/eligrey/FileSaver.js@1.2.0/FileSaver.js
-// @require      https://gcore.jsdelivr.net/gh/Stuk/jszip@master/dist/jszip.js
+// @require      https://gcore.jsdelivr.net/gh/Stuk/jszip@3.4.0/dist/jszip.js
 // @require      https://gcore.jsdelivr.net/gh/malsup/malsup.github.com@master/jquery.form.js
 // @downloadURL  https://gcore.jsdelivr.net/gh/knight000/Wod_Script/WOD_extra_statistics.user.js
 // @updateURL    https://gcore.jsdelivr.net/gh/knight000/Wod_Script/WOD_extra_statistics.user.js
